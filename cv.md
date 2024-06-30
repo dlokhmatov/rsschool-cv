@@ -1,9 +1,15 @@
-<img src="/images/dlokhmatov-img.JPG"/>
+<img style="padding: 10px" src="/images/dlokhmatov-img.JPG" alt="Denys Lokhmatov" width="150" height ="200"/>
 
 <span>Email: d.v.lokhmatov@gmail.com<br> Mobile: +385916229093</span>
 
 # Denys Lokhmatov
-<span>Software Test Automation Engineer</span>
+<span style="padding: 10px">Software Test Automation Engineer</span>
+
+## About me
+
+<p>
+Hello! My name is Denys. I`m 34. My main goal is to switch from Test Automation to Frontend Development. The reason why is that I got bored with testing and want to spend my time writing the code instead of writing test cases.
+</p>
 
 ## Summury
 
@@ -37,4 +43,4 @@
 
 ## Other Information
 
-* Languages: English(B1-B2), Ukrainian, Russian 
+* Languages: English(B1-B2)
