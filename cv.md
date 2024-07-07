@@ -8,7 +8,7 @@
 ## About me
 
 <p>
-Hello! My name is Denys. I`m 34. My main goal is to switch from Test Automation to Frontend Development. The reason why is that I got bored with testing and want to spend my time writing the code instead of writing test cases.
+Hello! I’m Denys, 34 years old. I have been working in IT for about 8 years, beginning as a Manual Tester in a small team. Two years ago, I transitioned to a Test Automation Engineer role specializing in JAVA and .NET at EPAM Systems. My learning journey is continuous, as each new project demands knowledge of various technologies. Working in a large international company and interacting with colleagues from different countries, I have recognized the importance of strong soft skills. Consequently, I’m dedicated to improving not only my technical expertise but also my communication abilities.
 </p>
 
 ## Summury
